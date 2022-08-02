@@ -1,4 +1,4 @@
-# Book Finder app
+# Book Search app
 
 Book Finder is an android application that is used to find books using the Google Books API. 
 Created using Java in Android Studio
