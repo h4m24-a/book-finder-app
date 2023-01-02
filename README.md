@@ -37,7 +37,8 @@ Button that takes you to a page to download or purchase the book.
 | <img src="https://user-images.githubusercontent.com/102926214/182233604-7c138ff4-9dd7-40fe-b113-648947526c1b.jpg" width="300" height="500">   | <img src="https://user-images.githubusercontent.com/102926214/182233606-308bb688-bbd8-44be-95e9-706572c47a8a.jpg" width="300" height="500">
 
 <br>
- 🎨 Wireframe
+
+ ## 🎨 Tech
 
  <img src="https://user-images.githubusercontent.com/102926214/189758494-2d46c47d-867d-41e3-a1bb-2b3ca177dc32.png">
 
